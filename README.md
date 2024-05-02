@@ -1,0 +1,1 @@
+Created this Windows Forms .NET Application along with a SQL Server database to keep track of employees' computer assignments. An easy to use interface that allows you to maintain information about each computer, as well as which computers each employee has been assigned to.
